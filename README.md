@@ -6,15 +6,16 @@ with, to some significant extent:
 ![GitHub Actions][badge-actions] ![Jenkins CI][badge-jenkins]
 ![Terraform][badge-terraform] ![Ansible][badge-ansible] ![AWS][badge-aws]
 ![Google Cloud Platform][badge-gcp] ![Node.js][badge-node] ![React][badge-react]
-![Pytest][badge-pytest] ![C][badge-c] ![C++][badge-cplusplus]
-![Python][badge-python] ![Java][badge-java] ![Haskell][badge-haskell]
-![Bash][badge-bash] ![GitLab][badge-gitlab] ![Arch Linux][badge-arch]
-![Debian][badge-debian] ![CentOS][badge-centos] ![Sass][badge-sass]
-![HTML5][badge-html5]
+![Jest][badge-jest] ![Pytest][badge-pytest] ![C][badge-c]
+![C++][badge-cplusplus] ![Python][badge-python] ![Java][badge-java]
+![Haskell][badge-haskell] ![Bash][badge-bash] ![GitLab][badge-gitlab] ![Arch
+Linux][badge-arch] ![Debian][badge-debian] ![CentOS][badge-centos]
+![Sass][badge-sass] ![HTML5][badge-html5]
 
+[badge-jest]: https://img.shields.io/badge/-Jest-15C213?style=flat-square&logo=jest&logoColor=white
 [badge-cplusplus]: https://img.shields.io/badge/-C++-00427E?style=flat-square&logo=cplusplus&logoColor=white
 [badge-arch]: https://img.shields.io/badge/-Arch_Linux-0F93D1?style=flat-square&logo=archlinux&logoColor=white
-[badge-pytest]: https://img.shields.io/badge/-pytest-009FE3?style=flat-square&logo=pytest&logoColor=white
+[badge-pytest]: https://img.shields.io/badge/-Pytest-009FE3?style=flat-square&logo=pytest&logoColor=white
 [badge-c]: https://img.shields.io/badge/-C-4A40D7?style=flat-square&logo=c&logoColor=white
 [badge-python]: https://img.shields.io/badge/-Python-254F73?style=flat-square&logo=python&logoColor=white
 [badge-git]: https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
