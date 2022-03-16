@@ -1,8 +1,6 @@
-Currently working with DevOps, which has contributed quite a bit to the list
-displayed ahead. It's been pretty fun so far.
-
-A few of the things I've worked and / or fiddled with, to some significant
-extent:
+Currently working with <img src="https://i.ibb.co/bHth7B4/devops-thing-inverted-circle.png" width="16"/>
+DevOps. A few of the things I've worked and / or fiddled with, to some
+significant extent:
 
 ![Git][badge-git] ![Docker][badge-docker] ![Helm][badge-helm]
 ![Kubernetes][badge-k8s] ![OpenShift Container Platform][badge-openshift]
