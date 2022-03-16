@@ -12,7 +12,7 @@ with, to some significant extent:
 Linux][badge-arch] ![Debian][badge-debian] ![CentOS][badge-centos]
 ![Sass][badge-sass] ![HTML5][badge-html5]
 
-[badge-jest]: https://img.shields.io/badge/-Jest-15C213?style=flat-square&logo=jest&logoColor=white
+[badge-jest]: https://img.shields.io/badge/-Jest-43853D?style=flat-square&logo=jest&logoColor=white
 [badge-cplusplus]: https://img.shields.io/badge/-C++-00427E?style=flat-square&logo=cplusplus&logoColor=white
 [badge-arch]: https://img.shields.io/badge/-Arch_Linux-0F93D1?style=flat-square&logo=archlinux&logoColor=white
 [badge-pytest]: https://img.shields.io/badge/-Pytest-009FE3?style=flat-square&logo=pytest&logoColor=white
