@@ -27,7 +27,7 @@ Linux][badge-arch] ![Debian][badge-debian] ![CentOS][badge-centos]
 [badge-gitlab]: https://img.shields.io/badge/-GitLab-BA534C?style=flat-square&logo=gitlab&logoColor=white
 [badge-bash]: https://img.shields.io/badge/-Bash-414648?style=flat-square&logo=gnubash&logoColor=white
 [badge-haskell]: https://img.shields.io/badge/-Haskell-5C5377?style=flat-square&logo=haskell&logoColor=white
-[badge-java]: https://img.shields.io/badge/-Java-AE4141?style=flat-square&logo=java&logoColor=white
+[badge-java]: https://img.shields.io/badge/-Java-AE4141?style=flat-square&logo=openjdk&logoColor=white
 [badge-aws]: https://img.shields.io/badge/-Amazon_Web_Services-282F38?style=flat-square&logo=amazonaws&logoColor=white
 [badge-docker]: https://img.shields.io/badge/-Docker-1A2C55?style=flat-square&logo=docker&logoColor=white
 [badge-helm]: https://img.shields.io/badge/-Helm-1C1F70?style=flat-square&logo=helm&logoColor=white
