@@ -3,11 +3,11 @@ with, to some significant extent:
 
 ![Git][badge-git] ![Docker][badge-docker] ![Helm][badge-helm]
 ![Kubernetes][badge-k8s] ![OpenShift Container Platform][badge-openshift]
-![GitHub Actions][badge-actions] ![Jenkins CI][badge-jenkins]
-![Terraform][badge-terraform] ![Ansible][badge-ansible] ![AWS][badge-aws]
-![Google Cloud Platform][badge-gcp] ![Prometheus][badge-prometheus]
-![Grafana][badge-grafana] ![Node.js][badge-node] ![React][badge-react]
-![Jest][badge-jest] ![Pytest][badge-pytest] ![C][badge-c]
+![GitHub Actions][badge-actions] ![Jenkins CI][badge-jenkins] ![Circle
+CI][badge-circleci] ![Terraform][badge-terraform] ![Ansible][badge-ansible]
+![AWS][badge-aws] ![Google Cloud Platform][badge-gcp]
+![Prometheus][badge-prometheus] ![Grafana][badge-grafana] ![Node.js][badge-node]
+![React][badge-react] ![Jest][badge-jest] ![Pytest][badge-pytest] ![C][badge-c]
 ![C++][badge-cplusplus] ![Python][badge-python] ![Java][badge-java]
 ![Haskell][badge-haskell] ![Bash][badge-bash] ![GitLab][badge-gitlab] ![Arch
 Linux][badge-arch] ![Debian][badge-debian] ![CentOS][badge-centos]
@@ -35,6 +35,7 @@ Linux][badge-arch] ![Debian][badge-debian] ![CentOS][badge-centos]
 [badge-k8s]: https://img.shields.io/badge/-Kubernetes-516EC3?style=flat-square&logo=kubernetes&logoColor=white
 [badge-jenkins]: https://img.shields.io/badge/-Jenkins_CI-222528?style=flat-square&logo=jenkins&logoColor=white
 [badge-actions]: https://img.shields.io/badge/-GitHub_Actions-5987DC?style=flat-square&logo=githubactions&logoColor=white
+[badge-circleci]: https://img.shields.io/badge/-Circle_CI-333332?style=flat-square&logo=circleci&logoColor=white
 [badge-terraform]: https://img.shields.io/badge/-Terraform-7A59A1?style=flat-square&logo=terraform&logoColor=white
 [badge-ansible]: https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white
 [badge-gcp]: https://img.shields.io/badge/-Google_Cloud_Platform-4D73C5?style=flat-square&logo=googlecloud&logoColor=white
