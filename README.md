@@ -4,8 +4,8 @@ with, to some significant extent:
 ![Git][badge-git] ![Docker][badge-docker] ![Helm][badge-helm]
 ![Kubernetes][badge-k8s] ![OpenShift Container Platform][badge-openshift]
 ![GitHub Actions][badge-actions] ![Jenkins CI][badge-jenkins] ![Circle
-CI][badge-circleci] ![Terraform][badge-terraform] ![Ansible][badge-ansible]
-![AWS][badge-aws] ![Google Cloud Platform][badge-gcp]
+CI][badge-circleci] ![Terraform][badge-terraform] ![Packer][badge-packer]
+![Ansible][badge-ansible] ![AWS][badge-aws] ![Google Cloud Platform][badge-gcp]
 ![Prometheus][badge-prometheus] ![Grafana][badge-grafana] ![Node.js][badge-node]
 ![React][badge-react] ![Jest][badge-jest] ![Pytest][badge-pytest] ![C][badge-c]
 ![C++][badge-cplusplus] ![Python][badge-python] ![Java][badge-java]
@@ -37,6 +37,7 @@ Linux][badge-arch] ![Debian][badge-debian] ![CentOS][badge-centos]
 [badge-actions]: https://img.shields.io/badge/-GitHub_Actions-5987DC?style=flat-square&logo=githubactions&logoColor=white
 [badge-circleci]: https://img.shields.io/badge/-Circle_CI-333332?style=flat-square&logo=circleci&logoColor=white
 [badge-terraform]: https://img.shields.io/badge/-Terraform-7A59A1?style=flat-square&logo=terraform&logoColor=white
+[badge-packer]: https://img.shields.io/badge/-Packer-1E94DE?style=flat-square&logo=packer&logoColor=white
 [badge-ansible]: https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white
 [badge-gcp]: https://img.shields.io/badge/-Google_Cloud_Platform-4D73C5?style=flat-square&logo=googlecloud&logoColor=white
 [badge-prometheus]: https://img.shields.io/badge/-Prometheus-DD4F2A?style=flat-square&logo=prometheus&logoColor=white
