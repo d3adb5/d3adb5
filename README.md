@@ -5,12 +5,13 @@ with, to some significant extent:
 ![Kubernetes][badge-k8s] ![OpenShift Container Platform][badge-openshift]
 ![GitHub Actions][badge-actions] ![Jenkins CI][badge-jenkins] ![Circle
 CI][badge-circleci] ![Terraform][badge-terraform] ![Packer][badge-packer]
-![Ansible][badge-ansible] ![AWS][badge-aws] ![Google Cloud Platform][badge-gcp]
-![Prometheus][badge-prometheus] ![Grafana][badge-grafana] ![Node.js][badge-node]
-![React][badge-react] ![Jest][badge-jest] ![Pytest][badge-pytest] ![C][badge-c]
-![C++][badge-cplusplus] ![Python][badge-python] ![Java][badge-java]
-![Haskell][badge-haskell] ![Bash][badge-bash] ![GitLab][badge-gitlab] ![Arch
-Linux][badge-arch] ![Debian][badge-debian] ![CentOS][badge-centos]
+![Ansible][badge-ansible] ![Salt][badge-salt] ![AWS][badge-aws] ![Google Cloud
+Platform][badge-gcp] ![Prometheus][badge-prometheus] ![Grafana][badge-grafana]
+![Node.js][badge-node] ![React][badge-react] ![Jest][badge-jest]
+![Pytest][badge-pytest] ![C][badge-c] ![C++][badge-cplusplus]
+![Python][badge-python] ![Java][badge-java] ![Haskell][badge-haskell]
+![Bash][badge-bash] ![GitLab][badge-gitlab] ![RHEL][badge-rhel]
+![Debian][badge-debian] ![Arch Linux][badge-arch] ![CentOS][badge-centos]
 ![Sass][badge-sass] ![HTML5][badge-html5]
 
 [badge-jest]: https://img.shields.io/badge/-Jest-5B8059?style=flat-square&logo=jest&logoColor=white
@@ -25,6 +26,7 @@ Linux][badge-arch] ![Debian][badge-debian] ![CentOS][badge-centos]
 [badge-react]: https://img.shields.io/badge/-React-46778C?style=flat-square&logo=react&logoColor=white
 [badge-centos]: https://img.shields.io/badge/-CentOS-020007?style=flat-square&logo=centos&logoColor=white
 [badge-debian]: https://img.shields.io/badge/-Debian-8F3441?style=flat-square&logo=debian&logoColor=white
+[badge-rhel]: https://img.shields.io/badge/-RHEL-000000?style=flat-square&logo=redhat&logoColor=ee0000
 [badge-gitlab]: https://img.shields.io/badge/-GitLab-BA534C?style=flat-square&logo=gitlab&logoColor=white
 [badge-bash]: https://img.shields.io/badge/-Bash-414648?style=flat-square&logo=gnubash&logoColor=white
 [badge-haskell]: https://img.shields.io/badge/-Haskell-5C5377?style=flat-square&logo=haskell&logoColor=white
@@ -39,6 +41,7 @@ Linux][badge-arch] ![Debian][badge-debian] ![CentOS][badge-centos]
 [badge-terraform]: https://img.shields.io/badge/-Terraform-7A59A1?style=flat-square&logo=terraform&logoColor=white
 [badge-packer]: https://img.shields.io/badge/-Packer-1E94DE?style=flat-square&logo=packer&logoColor=white
 [badge-ansible]: https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white
+[badge-salt]: https://img.shields.io/badge/-Salt-11BEAC?style=flat-square&logo=saltproject&logoColor=white
 [badge-gcp]: https://img.shields.io/badge/-Google_Cloud_Platform-4D73C5?style=flat-square&logo=googlecloud&logoColor=white
 [badge-prometheus]: https://img.shields.io/badge/-Prometheus-DD4F2A?style=flat-square&logo=prometheus&logoColor=white
 [badge-grafana]: https://img.shields.io/badge/-Grafana-000000?style=flat-square&logo=grafana
