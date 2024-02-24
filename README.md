@@ -6,13 +6,13 @@ with, to some significant extent:
 ![GitHub Actions][badge-actions] ![Jenkins CI][badge-jenkins] ![Circle
 CI][badge-circleci] ![Terraform][badge-terraform] ![Packer][badge-packer]
 ![Ansible][badge-ansible] ![Salt][badge-salt] ![AWS][badge-aws] ![Google Cloud
-Platform][badge-gcp] ![Prometheus][badge-prometheus] ![Grafana][badge-grafana]
-![Node.js][badge-node] ![React][badge-react] ![Jest][badge-jest]
-![Pytest][badge-pytest] ![C][badge-c] ![C++][badge-cplusplus]
-![Python][badge-python] ![Java][badge-java] ![Haskell][badge-haskell]
-![Bash][badge-bash] ![GitLab][badge-gitlab] ![RHEL][badge-rhel]
-![Debian][badge-debian] ![Arch Linux][badge-arch] ![CentOS][badge-centos]
-![Sass][badge-sass] ![HTML5][badge-html5]
+Platform][badge-gcp] ![Datadog][badge-datadog] ![Prometheus][badge-prometheus]
+![Grafana][badge-grafana] ![Node.js][badge-node] ![React][badge-react]
+![Jest][badge-jest] ![Pytest][badge-pytest] ![C][badge-c]
+![C++][badge-cplusplus] ![Python][badge-python] ![Java][badge-java]
+![Haskell][badge-haskell] ![Bash][badge-bash] ![GitLab][badge-gitlab]
+![RHEL][badge-rhel] ![Debian][badge-debian] ![Arch Linux][badge-arch]
+![CentOS][badge-centos] ![Sass][badge-sass] ![HTML5][badge-html5]
 
 [badge-jest]: https://img.shields.io/badge/-Jest-5B8059?style=flat-square&logo=jest&logoColor=white
 [badge-cplusplus]: https://img.shields.io/badge/-C++-27416B?style=flat-square&logo=cplusplus&logoColor=white
@@ -43,6 +43,7 @@ Platform][badge-gcp] ![Prometheus][badge-prometheus] ![Grafana][badge-grafana]
 [badge-ansible]: https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white
 [badge-salt]: https://img.shields.io/badge/-Salt-11BEAC?style=flat-square&logo=saltproject&logoColor=white
 [badge-gcp]: https://img.shields.io/badge/-Google_Cloud_Platform-4D73C5?style=flat-square&logo=googlecloud&logoColor=white
+[badge-datadog]: https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white
 [badge-prometheus]: https://img.shields.io/badge/-Prometheus-DD4F2A?style=flat-square&logo=prometheus&logoColor=white
 [badge-grafana]: https://img.shields.io/badge/-Grafana-000000?style=flat-square&logo=grafana
 [badge-node]: https://img.shields.io/badge/-Node.js-5B8059?style=flat-square&logo=nodedotjs&logoColor=white
